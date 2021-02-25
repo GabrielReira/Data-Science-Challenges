@@ -14,4 +14,4 @@ Seu objetivo é construir um modelo de previsão de preço o qual permita que um
 
 A única informação que você possui são algumas bases bases de dados que possuem os preços dos imóveis obtidos e suas respectivas características em cada mês. As bases vão de abril de 2018 a maio de 2020, com exceção de junho de 2018 que não possui base de dados.
 
-Link para download da base de dados: https://www.kaggle.com/allanbruno/airbnb-rio-de-janeiro
+Link para download da base de dados: https://www.kaggle.com/allanbruno/airbnb-rio-de-janeiro.
