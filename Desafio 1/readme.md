@@ -1,5 +1,7 @@
 # Desafio 1
 
+[![en](https://img.shields.io/badge/lang-en-red.svg)](readme.en.md)
+
 Você faz parte da equipe de Analytics de uma grande marca de vestuário com mais de 25 lojas espalhadas em Shoppings de todo o Brasil.
 
 Toda semana você precisa enviar para a diretoria um ranking atualizado com as 25 lojas contendo 3 informações:

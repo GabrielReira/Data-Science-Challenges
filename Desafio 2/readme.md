@@ -1,5 +1,7 @@
 # Desafio 2
 
+[![en](https://img.shields.io/badge/lang-en-red.svg)](readme.en.md)
+
 Você trabalha em uma grande empresa de Cartão de Crédito e o diretor da empresa percebeu que o número de clientes que cancelam seus cartões tem aumentado significativamente, causando prejuízos enormes para a empresa.
 
 O que fazer para evitar isso? Como saber as pessoas que têm maior tendência a cancelar o cartão?

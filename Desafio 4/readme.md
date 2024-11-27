@@ -1,9 +1,10 @@
 # Desafio 4
 
+[![en](https://img.shields.io/badge/lang-en-red.svg)](readme.en.md)
+
 Você trabalha em uma empresa de venda de serviços de alto valor agregado e seus clientes têm um prazo de 30 dias para efetuarem o pagamento.
 
-Acontece que, como em quase toda empresa, nem sempre os clientes pagam a quantia na data acordada ou nem sempre quitam o valor por completo. Logo, 
-esses clientes são considerados inadimplentes.
+Acontece que, como em quase toda empresa, nem sempre os clientes pagam a quantia na data acordada ou nem sempre quitam o valor por completo. Logo, esses clientes são considerados inadimplentes.
 
 A equipe do setor financeiro que faz o controle com o valor devido de cada cliente reparou que os números de inadimplência vem crescendo nos últimos meses.
 
